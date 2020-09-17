@@ -1,5 +1,6 @@
 <?php
 
+//define('BASEURL',$_SERVER['SERVER_NAME'].'/public');
 define('BASEURL','http://localhost/phpMVC/public');
 
 // database

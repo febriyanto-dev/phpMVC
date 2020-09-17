@@ -1,0 +1,13 @@
+{
+    "name": "pt174045/php-mvc",
+    "authors": [
+        {
+            "name": "Febriyanto",
+            "email": "febriyanto.292@gmail.com"
+        }
+    ],
+    "require": {
+        "nesbot/carbon": "^2.40",
+        "hashids/hashids": "^4.0"
+    }
+}
